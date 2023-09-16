@@ -5,3 +5,6 @@ Given task completed :
 Example:
 Run this API,
 http://localhost/Trawex/get_employee.php?token=e53624850284c6c3345206c96f97bb2d&employee_id=3
+
+Start Time: 10:00 AM
+End Time: 12:20PM
